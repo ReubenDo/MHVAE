@@ -1,0 +1,7 @@
+monai
+# pytorch
+pandas
+tqdm
+nibabel
+SimpleITK
+numpy
