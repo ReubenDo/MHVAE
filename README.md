@@ -1,3 +1,11 @@
+# ⚠️ This repository is outdated
+
+**Please visit the new version of our work:** 👉 **[MMHVAE](https://github.com/ReubenDo/MMHVAE)**
+
+The new repository implements **Unified Cross-Modal Medical Image Synthesis with Hierarchical Mixture of Product-of-Experts**, published in IEEE Transactions on Pattern Analysis and Machine Intelligence (2025). It extends this work with improved multimodal synthesis, generalization to more than 2 modalities and pre-trained models.
+
+---
+
 #  Unified Brain MR-Ultrasound Synthesis using Multi-Modal Hierarchical Representations
 
 Public PyTorch implementation for our paper [Unified Brain MR-Ultrasound Synthesis using Multi-Modal Hierarchical Representations](https://arxiv.org/abs/2309.08747), 
